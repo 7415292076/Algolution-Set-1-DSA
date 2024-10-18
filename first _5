@@ -1,0 +1,25 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+   int arr[]={1,2,3,4,6,5,7,8,9,10,1,2,3,4,6,5,7,8,9,10},j=0;
+  
+   for(int i=0;i<20;i++)
+   {
+        for(int k =i; k<20; k++)
+        {
+             if(arr[i]==arr[i])
+              {
+                   j++;
+              }
+              else
+              {
+                  
+              }
+        }
+      
+       
+   }
+   cout<<"total dublicate number is "<<j;
+}
+   
