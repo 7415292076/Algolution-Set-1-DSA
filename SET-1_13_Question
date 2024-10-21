@@ -1,3 +1,21 @@
+/*
+13.	write a function in C to print following pattern
+Note: Only odd number of rows will be the input parameter to the function. 
+If the number of rows is even then print an error and return false else return true.
+
+Diamond
+
+    *
+   ***
+  *****
+ *******
+*********
+ *******
+  *****
+   ***
+    *
+
+*/
 #include<iostream>
 using namespace std;
 
