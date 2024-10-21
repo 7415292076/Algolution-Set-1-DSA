@@ -1,3 +1,6 @@
+/*
+3.	Write a program to merge two sorted arrays to a third array.
+*/
 #include <iostream>
 using namespace std;
 int main() {
