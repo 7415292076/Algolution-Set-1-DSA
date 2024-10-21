@@ -1,3 +1,7 @@
+/*
+2.	Write a program that takes 5 integers as input from the user and print Max of all the numbers.
+*/
+
 #include <iostream>
 using namespace std;
 int main() {
