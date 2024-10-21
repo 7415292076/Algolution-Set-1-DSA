@@ -1,5 +1,6 @@
 /*
 4.	Write a program that takes 7 integers as input from the user 
+then Reverse the order of numbers in the array, then print the numbers.
 */
 
 #include<iostream>
