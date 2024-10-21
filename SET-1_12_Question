@@ -1,3 +1,20 @@
+/*
+12.	write a function in C to print following pattern
+Note: Only number of columns will be the input parameter to the function
+Half diamond
+*
+**
+***
+****
+*****
+****
+***
+**
+*
+
+*/
+
+
 #include<iostream>
 using namespace std;
 
