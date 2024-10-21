@@ -1,3 +1,14 @@
+/*
+14.	write a function in C to print following pattern 
+Note: Number of rows and columns shall be the input parameters to the function
+
+12345
+54321
+12345
+54321
+12345
+*/
+
 #include<iostream>
 using namespace std;
 
