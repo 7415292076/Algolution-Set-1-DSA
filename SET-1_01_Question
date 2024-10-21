@@ -1,4 +1,6 @@
-
+/*
+1.	Write a program to count total number of negative numbers in an array.
+*/
 #include <iostream>
 using namespace std;
 int main() {
