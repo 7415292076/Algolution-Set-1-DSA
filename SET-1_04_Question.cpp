@@ -1,4 +1,6 @@
-
+/*
+4.	Write a program that takes 7 integers as input from the user 
+*/
 
 #include<iostream>
 using namespace std;
